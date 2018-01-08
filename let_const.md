@@ -1,4 +1,4 @@
-#ES6——let 和const
+## ES6——let 和const
 
 ### let和var ###
 
